@@ -1,0 +1,4 @@
+[effects.preset.burn_palette_workspace]
+kind = "animation"
+shader = "shader.glsl"
+palette = true
